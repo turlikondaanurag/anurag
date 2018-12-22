@@ -15,5 +15,8 @@ System.out.println("false");
 //new commit
 //re test of push
  class inser{
+	 int a=0;
+	 String name="anurag";
+	 int x=0;	
 	
 }
